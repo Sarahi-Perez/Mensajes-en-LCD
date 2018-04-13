@@ -20,6 +20,7 @@ SOFTWARE UTILIZADO:
 - Arduino
 - Fritzing
 
+NOTA: en la carpeta con el nombre "lcdprinter", se incluye las clases de java, una es el frame y el otro es el codigo. Y en la carpeta "Librerias" se incluyen las librerias a utilizar (solo coloca una en tu proyecto, la diferencia entre ambas es que la version 3 tiene mas componentes que la version 2.7)
 
 ![Esquema de la conexion con la pantalla LCD](https://github.com/Sarahi-Perez/Mensajes-en-LCD/blob/master/lcd_schem11.png "Esquema de la conexion con la pantalla LCD")
 
