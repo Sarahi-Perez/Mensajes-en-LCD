@@ -19,3 +19,20 @@ SOFTWARE UTILIZADO:
 - Java NetBeans
 - Arduino
 - Fritzing
+
+
+![Esquema de la conexion con la pantalla LCD](https://github.com/Sarahi-Perez/Mensajes-en-LCD/blob/master/lcd_schem11.png "Esquema de la conexion con la pantalla LCD")
+
+![Esquema del circuito](https://github.com/Sarahi-Perez/Mensajes-en-LCD/blob/master/circuito_esquem%C3%A1tico.jpg
+ "Esquema del circuito")
+ 
+ ![Interfaz en Java](https://github.com/Sarahi-Perez/Mensajes-en-LCD/blob/master/java.jpg "Interfaz en Java")
+ 
+ ![Imagen del circuito](https://github.com/Sarahi-Perez/Mensajes-en-LCD/blob/master/30652856_1654206154661486_6413428192123551744_n.jpg)
+ 
+ ![Imagen del circuito](https://github.com/Sarahi-Perez/Mensajes-en-LCD/blob/master/30657331_1654206121328156_1496173654520627200_n.jpg)
+ 
+![Imagen del circuito](https://github.com/Sarahi-Perez/Mensajes-en-LCD/blob/master/30689308_1654206111328157_4690709984994918400_n.jpg)
+
+
+![Imagen del circuito](https://github.com/Sarahi-Perez/Mensajes-en-LCD/blob/master/30697784_1654206104661491_2917003674179862528_n.jpg)
