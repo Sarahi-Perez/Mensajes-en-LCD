@@ -1,7 +1,7 @@
 # Mensajes-en-LCD
 Proyecto para mandar mensajes desde java a pantalla LCD con arduino.
 
-Programa que muestra la hora, la temperatura, la fecha e imprime algun mensaje que el usuario manda desde una interfaz realizada en java, en una pantalla LCD y segun la temperatura registrada, se enciende un led ( si es calor y mucho calor se enciende el led naranja, si es agradable se encianede el led verde, si es frio y mucho frio se enciende el led azul), y cada determinado tiempo, cambia del mensaje al mostrar la hora y fecha y despues cambia a la temperatura. El texto se mueve a la izquierda y regresa a la derecha. 
+Programa que muestra la hora, la temperatura, la fecha e imprime algun mensaje que el usuario manda desde una interfaz realizada en java, en una pantalla LCD y segun la temperatura registrada, se enciende un led ( si es calor y mucho calor se enciende el led naranja, si es agradable se encianede el led verde, si es frio y mucho frio se enciende el led azul), y cada determinado tiempo, cambia del mensaje al mostrar la hora y fecha y despues cambia a la temperatura. El texto se mueve a la izquierda y regresa a la derecha. Al enviarse el mensaje desde java, se limpia el JTextField(cuadro de texto) automaticamente, cuenta el numero de caracteres, no debe ser mayor a 32, de preferencia deben de ser mensajes menores o iguales a 16, al darle clic al boton de Fecha/Hora se muestra en la pantalla LCD la fecha y hora, y al darle clic al boton de temperatura, se muestra en la pantalla LCD la temperatura y un mensaje de si hace mucho calor, o calor o confort o frio o mucho frio segun sea la temperatura registrada y enciende los correspondientes leds.
 
 MATERIALES:
 - 3 leds
